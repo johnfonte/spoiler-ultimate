@@ -2,8 +2,10 @@ ideas:
 
 next tournament
 last tournament result
-twitter link
+twitter link/feed
 basic schedule, location
 gear announcement, can post photos, previous gear
 highlight photos
+roster
 about us
+spoiler team history link (ultiarchive)

@@ -1,4 +1,4 @@
 spoiler-ultimate
 ================
 
-Spoiler Ultimate
+http://spoilerultimate.com

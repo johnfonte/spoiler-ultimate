@@ -1,0 +1,16 @@
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+ErrorDocument 403 /forbidden.php
+ErrorDocument 404 /forbidden.php
+ErrorDocument 500 /index.php
+DirectoryIndex /
+order deny,allow
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteBase /
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME}\.php -f
+	RewriteRule ^(.*)$ $1.php [L]
+</IfModule>
