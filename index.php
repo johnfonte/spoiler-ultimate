@@ -77,6 +77,7 @@
 				margin: 0;
 				font-family: 'Generica Bold';
 				text-transform: uppercase;
+				letter-spacing: 2px;
 			}
 			span.info {
 				display: block;
@@ -103,30 +104,43 @@
 			<div id="header"><div id="logo"></div><span>Spoiler Ultimate</span></div>
 			<div id="splash"></div>
 			<div id="tourney">
-				<h1>SCINNY 2015</h1>
+				<h1>Motown Throwdown 2015</h1>
 				<div class="description">
-					<span class="info">Lebanon, OH - June 27/28</span>
-					https://www.google.com/maps/place/Super+8+3553+Commerce+Drive+I-75+at+Exit+32+SR+122+Middletown,+OH+45005-5232+US/
-					<span class="info"><a href="https://www.google.com/maps/place/900+Mcclure+Rd,+Lebanon,+OH+45036/">Fields (Google Maps)</a></span>
-					<span class="info"><a href="http://scorereport.net/2015/open/event15150">Score Reporter</a></span>
-					<span class="info"><a href="https://cincyultimate.org/tournament/scinny/2015">Event Info (CUPA)</a></span>
+					<span class="info">Sylvania, OH - July 25/26</span>
+ 					<span class="info"><a href="https://www.google.com/maps/place/Sylvania+Pacesetter+Park/">Fields (Google Maps)</a></span>
+					<span class="info"><a href="http://play.usaultimate.org/events/Motown-Throwdown-2015/schedule/Mens/Club-Men/">USAU Scores</a></span>
+					<span class="info"><a href="http://play.usaultimate.org/events/Motown-Throwdown-2015/">USAU Event Info</a></span>
 					<span class="info"><a href="https://twitter.com/SpoilerUltimate">Follow us on Twitter!</a></span>
 				</div>
 			</div>
 			<div id="results">
+				<h1>SCINNY 2015 - 4th Place</h1>
 				<div class="description">
-					<span class="info"><h2>Saturday</h2></span>
+					<span class="info"><h2>Saturday Round Robin - Pool A</h2></span>
 					<table>
 						<thead>
-							<th>Time</th>
-							<th>Field</th>
+							<th>Win/Loss</th>
+							<th>Score</th>
 							<th>Opponent</th>
 						</thead>
 						<tbody>
-							<tr><td>9am</td><td>9</td><td>#7 HuSTLe</td></tr>
-							<tr><td>12pm</td><td>8</td><td>#9 CHASM</td></tr>
-							<tr><td>1:30pm</td><td>9</td><td>#5 Black Sheep</td></tr>
-							<tr><td>3pm</td><td>8</td><td>#1 Kentucky Flying Circus</td></tr>
+							<tr><td>W</td><td>13-7</td><td>HuSTLe</td></tr>
+							<tr><td>W</td><td>13-9</td><td>CHASM</td></tr>
+							<tr><td>W</td><td>13-9</td><td>Black Sheep</td></tr>
+							<tr><td>L</td><td>8-9</td><td>Kentucky Flying Circus</td></tr>
+						</tbody>
+					</table>
+					<span class="info"><h2>Sunday Championship Bracket</h2></span>
+					<table>
+						<thead>
+							<th>Win/Loss</th>
+							<th>Score</th>
+							<th>Opponent</th>
+						</thead>
+						<tbody>
+							<tr><td>W</td><td>14-7</td><td>Flying Pig</td></tr>
+							<tr><td>L</td><td>13-7</td><td>Enigma</td></tr>
+							<tr><td>L</td><td>9-11</td><td>Kentucky Flying Circus</td></tr>
 						</tbody>
 					</table>
 				</div>
